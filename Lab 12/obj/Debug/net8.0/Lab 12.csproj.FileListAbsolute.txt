@@ -1,0 +1,14 @@
+C:\Users\PMLS\source\repos\Lab 12\bin\Debug\net8.0\Lab 12.exe
+C:\Users\PMLS\source\repos\Lab 12\bin\Debug\net8.0\Lab 12.deps.json
+C:\Users\PMLS\source\repos\Lab 12\bin\Debug\net8.0\Lab 12.runtimeconfig.json
+C:\Users\PMLS\source\repos\Lab 12\bin\Debug\net8.0\Lab 12.dll
+C:\Users\PMLS\source\repos\Lab 12\bin\Debug\net8.0\Lab 12.pdb
+C:\Users\PMLS\source\repos\Lab 12\obj\Debug\net8.0\Lab 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\source\repos\Lab 12\obj\Debug\net8.0\Lab 12.AssemblyInfoInputs.cache
+C:\Users\PMLS\source\repos\Lab 12\obj\Debug\net8.0\Lab 12.AssemblyInfo.cs
+C:\Users\PMLS\source\repos\Lab 12\obj\Debug\net8.0\Lab 12.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\Lab 12\obj\Debug\net8.0\Lab 12.dll
+C:\Users\PMLS\source\repos\Lab 12\obj\Debug\net8.0\refint\Lab 12.dll
+C:\Users\PMLS\source\repos\Lab 12\obj\Debug\net8.0\Lab 12.pdb
+C:\Users\PMLS\source\repos\Lab 12\obj\Debug\net8.0\Lab 12.genruntimeconfig.cache
+C:\Users\PMLS\source\repos\Lab 12\obj\Debug\net8.0\ref\Lab 12.dll
