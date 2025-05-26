@@ -1,0 +1,14 @@
+C:\Users\PMLS\source\repos\RecursiveDescent\bin\Debug\net8.0\RecursiveDescent.exe
+C:\Users\PMLS\source\repos\RecursiveDescent\bin\Debug\net8.0\RecursiveDescent.deps.json
+C:\Users\PMLS\source\repos\RecursiveDescent\bin\Debug\net8.0\RecursiveDescent.runtimeconfig.json
+C:\Users\PMLS\source\repos\RecursiveDescent\bin\Debug\net8.0\RecursiveDescent.dll
+C:\Users\PMLS\source\repos\RecursiveDescent\bin\Debug\net8.0\RecursiveDescent.pdb
+C:\Users\PMLS\source\repos\RecursiveDescent\obj\Debug\net8.0\RecursiveDescent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\source\repos\RecursiveDescent\obj\Debug\net8.0\RecursiveDescent.AssemblyInfoInputs.cache
+C:\Users\PMLS\source\repos\RecursiveDescent\obj\Debug\net8.0\RecursiveDescent.AssemblyInfo.cs
+C:\Users\PMLS\source\repos\RecursiveDescent\obj\Debug\net8.0\RecursiveDescent.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\RecursiveDescent\obj\Debug\net8.0\RecursiveDescent.dll
+C:\Users\PMLS\source\repos\RecursiveDescent\obj\Debug\net8.0\refint\RecursiveDescent.dll
+C:\Users\PMLS\source\repos\RecursiveDescent\obj\Debug\net8.0\RecursiveDescent.pdb
+C:\Users\PMLS\source\repos\RecursiveDescent\obj\Debug\net8.0\RecursiveDescent.genruntimeconfig.cache
+C:\Users\PMLS\source\repos\RecursiveDescent\obj\Debug\net8.0\ref\RecursiveDescent.dll
